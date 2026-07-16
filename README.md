@@ -1,6 +1,13 @@
 
 [![giphy.gif](https://i.postimg.cc/G2766jNQ/giphy.gif)](https://postimg.cc/cg3Dnfdg)
 # 🦜 Parrot OS – Security, Privacy & Development
+*Created by Onxx-x143*
+*Feedback*
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@onxx-x145)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harijadhavai)
 
 **Parrot OS** is a free and open-source GNU/Linux distribution based on **Debian**, designed for **security experts**, **developers**, and **privacy‑conscious** users[reference:1].
 
@@ -26,3 +33,5 @@ cd Parrot-os
 chmod +x main.sh
 bash Main.sh
 ```
+================> By Hari Jadhav 
+================> Parrot OS version v2.3
