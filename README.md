@@ -31,7 +31,7 @@
 git clone https://github.com/onxx-x143/Parrot-os.git
 cd Parrot-os
 chmod +x main.sh
-bash Main.sh
+bash main.sh
 ```
 ================> By Hari Jadhav 
 ================> Parrot OS version v2.3
