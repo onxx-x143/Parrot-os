@@ -25,7 +25,7 @@ while true; do
     case $opt in
         1)
             echo -e "\e[1;32mStarting installation...\e[0m"
-            ./ onxx.sh
+            bash onxx.sh
             read -p $'\e[1;36mPress Enter to continue...\e[0m'
             ;;
         2)
