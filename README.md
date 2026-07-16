@@ -1,6 +1,6 @@
-# 🦜 Parrot OS – Security, Privacy & Development
 
-![Parrot OS](https://www.parrotsec.org/img/parrot-logo.svg)
+[![giphy.gif](https://i.postimg.cc/G2766jNQ/giphy.gif)](https://postimg.cc/cg3Dnfdg)
+# 🦜 Parrot OS – Security, Privacy & Development
 
 **Parrot OS** is a free and open-source GNU/Linux distribution based on **Debian**, designed for **security experts**, **developers**, and **privacy‑conscious** users[reference:1].
 
