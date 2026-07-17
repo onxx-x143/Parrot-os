@@ -36,7 +36,7 @@ git clone https://github.com/onxx-x143/Parrot-os.git
 ```
 5. Go to script folder
 ```
-cd parrot-os
+cd Parrot-os
 ```
 6. Give execution permission
 ```
