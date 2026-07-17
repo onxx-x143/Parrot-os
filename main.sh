@@ -13,6 +13,13 @@ rainbow_figlet() {
 }
 
 while true; do
+
+# Open GitHub
+echo -e "\033[38;5;214m[$current_time]\033[0m \033[1;32m[INFO]:\033[0m Opening GitHub in Chrome..."
+am start -a android.intent.action.VIEW -d "https://github.com/onxx-x143" com.android.chrome >/dev/null 2>&1 || {
+    echo -e "\033[38;5;214m[$current_time]\033[0m \033[1;33m[WARNING]:\033[0m Could not open Chrome."
+}
+
     clear
     # Display colourful banner
     rainbow_figlet "ONXXE"
