@@ -9,6 +9,25 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/harijadhavai)
 
+# Version Info
+Installer Version 1.0
+
+## What's This?
+
+This is a script that allows you to install Parrot Os in your termux application without a rooted device
+
+### Installations Guide
+
+1. Update termux: `apt-get update && apt-get upgrade -y`
+2. Install wget: `apt-get install wget proot git curl -y`
+3. Go to HOME folder: `cd ~`
+4. Download script: `git clone https://github.com/onxx-x143/Parrot-os.git`
+5. Go to script folder: `cd Parrot-os`
+6. Give execution permission: `chmod +x main.sh`
+7. Run the script: `bash main.sh -y`
+8. Now just start parrot: `./onxx.sh`
+
+
 **Parrot OS** is a free and open-source GNU/Linux distribution based on **Debian**, designed for **security experts**, **developers**, and **privacy‑conscious** users[reference:1].
 
 ## 🔐 Why Parrot OS?
